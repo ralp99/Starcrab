@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: d5952df37de2f114888796263ab9b4d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: surroundPiece_backBuld
+    100004: surroundPiece_bottomCannon
+    100006: surroundPiece_bottomDoor
+    100008: surroundPiece_frontCannon
+    100010: surroundPiece_frontDoor
+    100012: surroundPiece_backBulb
+    100014: INVIS_surround_hitbox
+    100016: surroundPiece_backLights
+    100018: surroundPiece
+    100020: surroundPiece001
+    100022: surroundPiece_A_intact
+    100024: surroundPiece_B_damaged
+    100026: surroundPiece_backLights_B
+    100028: surroundPiece_damaged_interior
+    100030: debrisA_root
+    100032: debrisB_root
+    100034: debrisC_root
+    100036: Group002
+    100038: Group003
+    100040: surround_debrisA_01
+    100042: surround_debrisA_04
+    100044: surround_debrisA_08
+    100046: surround_debrisA_11
+    100048: surround_debrisA_13
+    100050: surround_debrisA_16
+    100052: surround_debrisA_18
+    100054: surround_debrisA_25
+    100056: surround_debrisA_29
+    100058: surround_debrisA_30
+    100060: surround_debrisA_32
+    100062: surround_debrisA_35
+    100064: surround_debrisA_37
+    100066: surround_debrisA_44
+    100068: surround_debrisA_47
+    100070: surround_debrisA_49
+    100072: surround_debrisA_61
+    100074: surround_debrisA_67
+    100076: surround_debrisB_00
+    100078: surround_debrisB_04
+    100080: surround_debrisB_06
+    100082: surround_debrisB_10
+    100084: surround_debrisB_22
+    100086: surround_debrisB_24
+    100088: surround_debrisB_25
+    100090: surround_debrisB_35
+    100092: surround_debrisB_36
+    100094: surround_debrisB_38
+    100096: surround_debrisB_47
+    100098: surround_debrisB_51
+    100100: surround_debrisB_52
+    100102: surround_debrisB_55
+    100104: surround_debrisB_57
+    100106: surround_debrisB_59
+    100108: surround_debrisB_60
+    100110: surround_debrisB_63
+    100112: surround_debrisB_67
+    100114: surround_debrisB_68
+    100116: surround_debrisB_72
+    100118: surround_debrisB_76
+    100120: surround_debrisC_05
+    100122: surround_debrisC_15
+    100124: surround_debrisC_19
+    100126: surround_debrisC_27
+    100128: surround_debrisC_29
+    100130: surround_debrisC_37
+    100132: surround_debrisC_43
+    100134: surround_debrisC_49
+    100136: surround_debrisC_58
+    100138: surround_debrisC_62
+    100140: surroundPiece_A_damage2
+    100142: surroundPiece_A_damage3
+    100144: surroundPiece_damaged_interior2
+    100146: surroundPiece_damaged_interior3
+    100148: surroundPiece_explRoot_INV
+    100150: surroundPiece_B_damaged1
+    100152: surroundPiece_B_damaged2
+    100154: surroundPiece_B_damaged3
+    400000: //RootNode
+    400002: surroundPiece_backBuld
+    400004: surroundPiece_bottomCannon
+    400006: surroundPiece_bottomDoor
+    400008: surroundPiece_frontCannon
+    400010: surroundPiece_frontDoor
+    400012: surroundPiece_backBulb
+    400014: INVIS_surround_hitbox
+    400016: surroundPiece_backLights
+    400018: surroundPiece
+    400020: surroundPiece001
+    400022: surroundPiece_A_intact
+    400024: surroundPiece_B_damaged
+    400026: surroundPiece_backLights_B
+    400028: surroundPiece_damaged_interior
+    400030: debrisA_root
+    400032: debrisB_root
+    400034: debrisC_root
+    400036: Group002
+    400038: Group003
+    400040: surround_debrisA_01
+    400042: surround_debrisA_04
+    400044: surround_debrisA_08
+    400046: surround_debrisA_11
+    400048: surround_debrisA_13
+    400050: surround_debrisA_16
+    400052: surround_debrisA_18
+    400054: surround_debrisA_25
+    400056: surround_debrisA_29
+    400058: surround_debrisA_30
+    400060: surround_debrisA_32
+    400062: surround_debrisA_35
+    400064: surround_debrisA_37
+    400066: surround_debrisA_44
+    400068: surround_debrisA_47
+    400070: surround_debrisA_49
+    400072: surround_debrisA_61
+    400074: surround_debrisA_67
+    400076: surround_debrisB_00
+    400078: surround_debrisB_04
+    400080: surround_debrisB_06
+    400082: surround_debrisB_10
+    400084: surround_debrisB_22
+    400086: surround_debrisB_24
+    400088: surround_debrisB_25
+    400090: surround_debrisB_35
+    400092: surround_debrisB_36
+    400094: surround_debrisB_38
+    400096: surround_debrisB_47
+    400098: surround_debrisB_51
+    400100: surround_debrisB_52
+    400102: surround_debrisB_55
+    400104: surround_debrisB_57
+    400106: surround_debrisB_59
+    400108: surround_debrisB_60
+    400110: surround_debrisB_63
+    400112: surround_debrisB_67
+    400114: surround_debrisB_68
+    400116: surround_debrisB_72
+    400118: surround_debrisB_76
+    400120: surround_debrisC_05
+    400122: surround_debrisC_15
+    400124: surround_debrisC_19
+    400126: surround_debrisC_27
+    400128: surround_debrisC_29
+    400130: surround_debrisC_37
+    400132: surround_debrisC_43
+    400134: surround_debrisC_49
+    400136: surround_debrisC_58
+    400138: surround_debrisC_62
+    400140: surroundPiece_A_damage2
+    400142: surroundPiece_A_damage3
+    400144: surroundPiece_damaged_interior2
+    400146: surroundPiece_damaged_interior3
+    400148: surroundPiece_explRoot_INV
+    400150: surroundPiece_B_damaged1
+    400152: surroundPiece_B_damaged2
+    400154: surroundPiece_B_damaged3
+    2100000: surrounderBoss
+    2100002: No Name
+    2100004: 'Material #2'
+    2100006: 'Material #3'
+    2300000: //RootNode
+    2300002: surroundPiece_backBuld
+    2300004: surroundPiece_bottomCannon
+    2300006: surroundPiece_bottomDoor
+    2300008: surroundPiece_frontCannon
+    2300010: surroundPiece_frontDoor
+    2300012: surroundPiece_backBulb
+    2300014: INVIS_surround_hitbox
+    2300016: surroundPiece_backLights
+    2300018: surroundPiece
+    2300020: surroundPiece001
+    2300022: surroundPiece_A_intact
+    2300024: surroundPiece_B_damaged
+    2300026: surroundPiece_backLights_B
+    2300028: surroundPiece_damaged_interior
+    2300030: surround_debrisA_01
+    2300032: surround_debrisA_04
+    2300034: surround_debrisA_08
+    2300036: surround_debrisA_11
+    2300038: surround_debrisA_13
+    2300040: surround_debrisA_16
+    2300042: surround_debrisA_18
+    2300044: surround_debrisA_25
+    2300046: surround_debrisA_29
+    2300048: surround_debrisA_30
+    2300050: surround_debrisA_32
+    2300052: surround_debrisA_35
+    2300054: surround_debrisA_37
+    2300056: surround_debrisA_44
+    2300058: surround_debrisA_47
+    2300060: surround_debrisA_49
+    2300062: surround_debrisA_61
+    2300064: surround_debrisA_67
+    2300066: surround_debrisB_00
+    2300068: surround_debrisB_04
+    2300070: surround_debrisB_06
+    2300072: surround_debrisB_10
+    2300074: surround_debrisB_22
+    2300076: surround_debrisB_24
+    2300078: surround_debrisB_25
+    2300080: surround_debrisB_35
+    2300082: surround_debrisB_36
+    2300084: surround_debrisB_38
+    2300086: surround_debrisB_47
+    2300088: surround_debrisB_51
+    2300090: surround_debrisB_52
+    2300092: surround_debrisB_55
+    2300094: surround_debrisB_57
+    2300096: surround_debrisB_59
+    2300098: surround_debrisB_60
+    2300100: surround_debrisB_63
+    2300102: surround_debrisB_67
+    2300104: surround_debrisB_68
+    2300106: surround_debrisB_72
+    2300108: surround_debrisB_76
+    2300110: surround_debrisC_05
+    2300112: surround_debrisC_15
+    2300114: surround_debrisC_19
+    2300116: surround_debrisC_27
+    2300118: surround_debrisC_29
+    2300120: surround_debrisC_37
+    2300122: surround_debrisC_43
+    2300124: surround_debrisC_49
+    2300126: surround_debrisC_58
+    2300128: surround_debrisC_62
+    2300130: surroundPiece_A_damage2
+    2300132: surroundPiece_A_damage3
+    2300134: surroundPiece_damaged_interior2
+    2300136: surroundPiece_damaged_interior3
+    2300138: surroundPiece_explRoot_INV
+    2300140: surroundPiece_B_damaged1
+    2300142: surroundPiece_B_damaged2
+    2300144: surroundPiece_B_damaged3
+    3300000: //RootNode
+    3300002: surroundPiece_backBuld
+    3300004: surroundPiece_bottomCannon
+    3300006: surroundPiece_bottomDoor
+    3300008: surroundPiece_frontCannon
+    3300010: surroundPiece_frontDoor
+    3300012: surroundPiece_backBulb
+    3300014: INVIS_surround_hitbox
+    3300016: surroundPiece_backLights
+    3300018: surroundPiece
+    3300020: surroundPiece001
+    3300022: surroundPiece_A_intact
+    3300024: surroundPiece_B_damaged
+    3300026: surroundPiece_backLights_B
+    3300028: surroundPiece_damaged_interior
+    3300030: surround_debrisA_01
+    3300032: surround_debrisA_04
+    3300034: surround_debrisA_08
+    3300036: surround_debrisA_11
+    3300038: surround_debrisA_13
+    3300040: surround_debrisA_16
+    3300042: surround_debrisA_18
+    3300044: surround_debrisA_25
+    3300046: surround_debrisA_29
+    3300048: surround_debrisA_30
+    3300050: surround_debrisA_32
+    3300052: surround_debrisA_35
+    3300054: surround_debrisA_37
+    3300056: surround_debrisA_44
+    3300058: surround_debrisA_47
+    3300060: surround_debrisA_49
+    3300062: surround_debrisA_61
+    3300064: surround_debrisA_67
+    3300066: surround_debrisB_00
+    3300068: surround_debrisB_04
+    3300070: surround_debrisB_06
+    3300072: surround_debrisB_10
+    3300074: surround_debrisB_22
+    3300076: surround_debrisB_24
+    3300078: surround_debrisB_25
+    3300080: surround_debrisB_35
+    3300082: surround_debrisB_36
+    3300084: surround_debrisB_38
+    3300086: surround_debrisB_47
+    3300088: surround_debrisB_51
+    3300090: surround_debrisB_52
+    3300092: surround_debrisB_55
+    3300094: surround_debrisB_57
+    3300096: surround_debrisB_59
+    3300098: surround_debrisB_60
+    3300100: surround_debrisB_63
+    3300102: surround_debrisB_67
+    3300104: surround_debrisB_68
+    3300106: surround_debrisB_72
+    3300108: surround_debrisB_76
+    3300110: surround_debrisC_05
+    3300112: surround_debrisC_15
+    3300114: surround_debrisC_19
+    3300116: surround_debrisC_27
+    3300118: surround_debrisC_29
+    3300120: surround_debrisC_37
+    3300122: surround_debrisC_43
+    3300124: surround_debrisC_49
+    3300126: surround_debrisC_58
+    3300128: surround_debrisC_62
+    3300130: surroundPiece_A_damage2
+    3300132: surroundPiece_A_damage3
+    3300134: surroundPiece_damaged_interior2
+    3300136: surroundPiece_damaged_interior3
+    3300138: surroundPiece_explRoot_INV
+    3300140: surroundPiece_B_damaged1
+    3300142: surroundPiece_B_damaged2
+    3300144: surroundPiece_B_damaged3
+    4300000: surroundPiece
+    4300002: surroundPiece_frontCannon
+    4300004: surroundPiece_backBuld
+    4300006: surroundPiece_bottomCannon
+    4300008: surroundPiece_frontDoor
+    4300010: surroundPiece_bottomDoor
+    4300012: surroundPiece_backBulb
+    4300014: surroundPiece_backLights
+    4300016: INVIS_surround_hitbox
+    4300018: surroundPiece_backLights_B
+    4300020: surroundPiece_B_damaged
+    4300022: surroundPiece_damaged_interior
+    4300024: surroundPiece_A_intact
+    4300026: surroundPiece001
+    4300028: surroundPiece_explRoot_INV
+    4300030: surround_debrisC_05
+    4300032: surround_debrisC_15
+    4300034: surround_debrisC_19
+    4300036: surround_debrisC_27
+    4300038: surround_debrisC_29
+    4300040: surround_debrisC_37
+    4300042: surround_debrisC_43
+    4300044: surround_debrisC_49
+    4300046: surround_debrisC_58
+    4300048: surround_debrisC_62
+    4300050: surround_debrisB_00
+    4300052: surround_debrisB_04
+    4300054: surround_debrisB_06
+    4300056: surround_debrisB_10
+    4300058: surround_debrisB_22
+    4300060: surround_debrisB_24
+    4300062: surround_debrisB_25
+    4300064: surround_debrisB_35
+    4300066: surround_debrisB_36
+    4300068: surround_debrisB_38
+    4300070: surround_debrisB_47
+    4300072: surround_debrisB_51
+    4300074: surround_debrisB_52
+    4300076: surround_debrisB_55
+    4300078: surround_debrisB_57
+    4300080: surround_debrisB_59
+    4300082: surround_debrisB_60
+    4300084: surround_debrisB_63
+    4300086: surround_debrisB_67
+    4300088: surround_debrisB_68
+    4300090: surround_debrisB_72
+    4300092: surround_debrisB_76
+    4300094: surround_debrisA_01
+    4300096: surround_debrisA_04
+    4300098: surround_debrisA_08
+    4300100: surround_debrisA_11
+    4300102: surround_debrisA_13
+    4300104: surround_debrisA_16
+    4300106: surround_debrisA_18
+    4300108: surround_debrisA_25
+    4300110: surround_debrisA_29
+    4300112: surround_debrisA_30
+    4300114: surround_debrisA_32
+    4300116: surround_debrisA_35
+    4300118: surround_debrisA_37
+    4300120: surround_debrisA_44
+    4300122: surround_debrisA_47
+    4300124: surround_debrisA_49
+    4300126: surround_debrisA_61
+    4300128: surround_debrisA_67
+    4300130: surroundPiece_A_damage2
+    4300132: surroundPiece_damaged_interior2
+    4300134: surroundPiece_A_damage3
+    4300136: surroundPiece_damaged_interior3
+    4300138: surroundPiece_B_damaged1
+    4300140: surroundPiece_B_damaged2
+    4300142: surroundPiece_B_damaged3
+    7400000: frontCannonAnim
+    7400002: bottomCannonAnim
+    7400004: frontCannonAnim_closed
+    7400006: bottomCannonAnim_closed
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: frontCannonAnim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: surroundPiece
+        weight: 0
+      - path: surroundPiece/INVIS_surround_hitbox
+        weight: 0
+      - path: surroundPiece/surroundPiece_backBulb
+        weight: 0
+      - path: surroundPiece/surroundPiece_backLights
+        weight: 0
+      - path: surroundPiece/surroundPiece_bottomCannon
+        weight: 0
+      - path: surroundPiece/surroundPiece_bottomDoor
+        weight: 0
+      - path: surroundPiece/surroundPiece_frontCannon
+        weight: 1
+      - path: surroundPiece/surroundPiece_frontDoor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bottomCannonAnim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: surroundPiece
+        weight: 0
+      - path: surroundPiece/INVIS_surround_hitbox
+        weight: 0
+      - path: surroundPiece/surroundPiece_backBulb
+        weight: 0
+      - path: surroundPiece/surroundPiece_backLights
+        weight: 0
+      - path: surroundPiece/surroundPiece_bottomCannon
+        weight: 1
+      - path: surroundPiece/surroundPiece_bottomDoor
+        weight: 1
+      - path: surroundPiece/surroundPiece_frontCannon
+        weight: 0
+      - path: surroundPiece/surroundPiece_frontDoor
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: frontCannonAnim_closed
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: surroundPiece
+        weight: 0
+      - path: surroundPiece/INVIS_surround_hitbox
+        weight: 0
+      - path: surroundPiece/surroundPiece_backBulb
+        weight: 0
+      - path: surroundPiece/surroundPiece_backLights
+        weight: 0
+      - path: surroundPiece/surroundPiece_bottomCannon
+        weight: 0
+      - path: surroundPiece/surroundPiece_bottomDoor
+        weight: 0
+      - path: surroundPiece/surroundPiece_frontCannon
+        weight: 1
+      - path: surroundPiece/surroundPiece_frontDoor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bottomCannonAnim_closed
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: surroundPiece
+        weight: 0
+      - path: surroundPiece/INVIS_surround_hitbox
+        weight: 0
+      - path: surroundPiece/surroundPiece_backBulb
+        weight: 0
+      - path: surroundPiece/surroundPiece_backLights
+        weight: 0
+      - path: surroundPiece/surroundPiece_bottomCannon
+        weight: 1
+      - path: surroundPiece/surroundPiece_bottomDoor
+        weight: 1
+      - path: surroundPiece/surroundPiece_frontCannon
+        weight: 0
+      - path: surroundPiece/surroundPiece_frontDoor
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0002
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

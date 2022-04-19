@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 21d1a26562fe38646b0ee8a0d0806576
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: //RootNode
+    100004: tank
+    100006: tank001
+    100008: wingRA
+    100010: wingRA001
+    100012: wingRB
+    100014: wingRB001
+    100016: wingRC
+    100018: wingRC001
+    100020: body001
+    100022: heroShip
+    100024: heroShip001_REF
+    100026: tank002
+    100028: tank003
+    100030: texCube
+    100032: wingRA002
+    100034: wingRA003
+    100036: wingRB002
+    100038: wingRB003
+    100040: wingRC002
+    100042: wingRC003
+    400000: body
+    400002: //RootNode
+    400004: tank
+    400006: tank001
+    400008: wingRA
+    400010: wingRA001
+    400012: wingRB
+    400014: wingRB001
+    400016: wingRC
+    400018: wingRC001
+    400020: body001
+    400022: heroShip
+    400024: heroShip001_REF
+    400026: tank002
+    400028: tank003
+    400030: texCube
+    400032: wingRA002
+    400034: wingRA003
+    400036: wingRB002
+    400038: wingRB003
+    400040: wingRC002
+    400042: wingRC003
+    2300000: body
+    2300002: tank
+    2300004: tank001
+    2300006: wingRA
+    2300008: wingRA001
+    2300010: wingRB
+    2300012: wingRB001
+    2300014: wingRC
+    2300016: wingRC001
+    2300018: body001
+    2300020: tank002
+    2300022: tank003
+    2300024: texCube
+    2300026: wingRA002
+    2300028: wingRA003
+    2300030: wingRB002
+    2300032: wingRB003
+    2300034: wingRC002
+    2300036: wingRC003
+    3300000: body
+    3300002: tank
+    3300004: tank001
+    3300006: wingRA
+    3300008: wingRA001
+    3300010: wingRB
+    3300012: wingRB001
+    3300014: wingRC
+    3300016: wingRC001
+    3300018: body001
+    3300020: tank002
+    3300022: tank003
+    3300024: texCube
+    3300026: wingRA002
+    3300028: wingRA003
+    3300030: wingRB002
+    3300032: wingRB003
+    3300034: wingRC002
+    3300036: wingRC003
+    4300000: body
+    4300002: tank
+    4300004: wingRC001
+    4300006: wingRC
+    4300008: wingRB
+    4300010: tank001
+    4300012: wingRB001
+    4300014: wingRA
+    4300016: wingRA001
+    4300018: texCube
+    4300020: body001
+    4300022: tank002
+    4300024: wingRC002
+    4300026: wingRC003
+    4300028: wingRB002
+    4300030: tank003
+    4300032: wingRB003
+    4300034: wingRA002
+    4300036: wingRA003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: characterColorPalettes
+    second: {fileID: 2100000, guid: 1ce44c826abe1b64dadf319890a49130, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01648
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

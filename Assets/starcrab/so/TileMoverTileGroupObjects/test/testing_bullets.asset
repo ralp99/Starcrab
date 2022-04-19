@@ -1,0 +1,407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d80647526638d44eb13d27f4883fbda, type: 3}
+  m_Name: testing_bullets
+  m_EditorClassIdentifier: 
+  note: 0 - e3 2019. start 24 for basher test. 22 for surround
+  groupId: 0
+  tileList:
+  - note: 0 - empty
+    TileSo: {fileID: 11400000, guid: e72f9d7f6fcad6a4caabcae45916bacb, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: 1 - pow L
+    TileSo: {fileID: 11400000, guid: e72f9d7f6fcad6a4caabcae45916bacb, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 2
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 2 - pow L
+    TileSo: {fileID: 11400000, guid: e72f9d7f6fcad6a4caabcae45916bacb, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 0
+      PresetHoriz: 1
+      PresetVert: 2
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 3 - pow R
+    TileSo: {fileID: 11400000, guid: e72f9d7f6fcad6a4caabcae45916bacb, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 0
+      PresetHoriz: 5
+      PresetVert: 4
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 4 - P LEFT  *star
+    TileSo: {fileID: 11400000, guid: 8fc2777ce1466b549b356901bb26d864, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 3
+      PresetHoriz: 1
+      PresetVert: 4
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 5 - POW
+    TileSo: {fileID: 11400000, guid: 0aab6637ec0f3d145b7dc2b236233d0e, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: 6 - P right  *pow
+    TileSo: {fileID: 11400000, guid: e5689472137ce934b88f3e9c670b64bb, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 0
+      PresetHoriz: 5
+      PresetVert: 4
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 7 -  *star
+    TileSo: {fileID: 11400000, guid: 41aafd005edf460489672c003d70414d, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 3
+      PresetHoriz: 3
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 8 - barrier hole *bomb,  p left
+    TileSo: {fileID: 11400000, guid: 7eed9fa3cd671b84281051ea33679bb2, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 3
+      ShotDirection: 0
+      PresetDepth: 0
+      PresetHoriz: 1
+      PresetVert: 4
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 9 - p swizzo *pow
+    TileSo: {fileID: 11400000, guid: 5b9d496b682913e498b21eb04711b698, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 2
+      PresetHoriz: 2
+      PresetVert: 4
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 3
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 10 - barrier high *star, p right
+    TileSo: {fileID: 11400000, guid: ea9280bd657b1b743a0a9d7d3a456aa8, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 4
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 11 -  *star
+    TileSo: {fileID: 11400000, guid: e045d2a516eb99044bb93f805d057e20, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 0
+      PresetHoriz: 5
+      PresetVert: 1
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 12 - tripod, bomb
+    TileSo: {fileID: 11400000, guid: 2f50e8c1eae48fc48bc43a4255b3aea1, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 3
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 0
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 3
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 13 - barrier low, p right *pow
+    TileSo: {fileID: 11400000, guid: dca3c6916d7aea140b1119fb8774d334, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 4
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 3
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 1
+      PresetVert: 2
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 14 - p left, 06
+    TileSo: {fileID: 11400000, guid: bc86d6d7160551546b9730207fe31c2f, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 4
+      PresetVert: 5
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 15 - p both, 03
+    TileSo: {fileID: 11400000, guid: 8fc2777ce1466b549b356901bb26d864, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 2
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 2
+      PresetHoriz: 5
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 16 - pow, small wall BOSS ****
+    TileSo: {fileID: 11400000, guid: 510e0d5b1d4855e419767ef920bfc3e7, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 0
+      PresetHoriz: 4
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 17 - slowdown
+    TileSo: {fileID: 11400000, guid: e72f9d7f6fcad6a4caabcae45916bacb, type: 2}
+    specialAction: 1
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 0
+      ShotDirection: 0
+      PresetDepth: 0
+      PresetHoriz: 0
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 18 - resume
+    TileSo: {fileID: 11400000, guid: 0aab6637ec0f3d145b7dc2b236233d0e, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: 19 - pow, p left
+    TileSo: {fileID: 11400000, guid: 0aab6637ec0f3d145b7dc2b236233d0e, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 4
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 3
+      PresetVert: 5
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 20 - bomb, p right, 10
+    TileSo: {fileID: 11400000, guid: 5b9d496b682913e498b21eb04711b698, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 2
+      PresetHoriz: 5
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 3
+      ShotDirection: 0
+      PresetDepth: 3
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 21 - p right, 22 no wall
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 4
+      PresetHoriz: 0
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 3
+      PresetVert: 2
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 22 - pow, 22 no wall
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 0
+      PresetVert: 4
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 23 - surround BOSS ******
+    TileSo: {fileID: 11400000, guid: b86b08e25f83a5048924ff4629432cbf, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: 24 - slowdown
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 1
+    InstanceSpawnList: []
+  - note: 25 - extra wall
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 0
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 4
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 26 - extra wall
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 4
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 27 - pow, BASHER BOSS ***
+    TileSo: {fileID: 11400000, guid: f39b5b326a2c46a47a772a6864ab1d71, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 5
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 28 - slowdown
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 1
+    InstanceSpawnList:
+    - note: 
+      spawnItems: 4
+      ShotDirection: 0
+      PresetDepth: 2
+      PresetHoriz: 1
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: 
+      spawnItems: 5
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 4
+      PresetVert: 0
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: 29 - extra wall
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: 30 - extra wall
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  culledToBeginingElementAlready: 0
+  BeginningElement: 4
+  randomize: 0
+  tileListIterations: 0
+  currentIteration: 0
+  dynamicTileListMembers: []
+  currentListPosition: 0
+  didRandomRoll: 0

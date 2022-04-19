@@ -1,0 +1,2590 @@
+fileFormatVersion: 2
+guid: 73ce16637585931409977a5f4fd3e5cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: basher_body
+    100002: basher_core
+    100004: basher_coreTrim
+    100006: basher_frontWheelRotate
+    100008: basher_windshield
+    100010: //RootNode
+    100012: hatch
+    100014: hatchCannon
+    100016: launchMissileSideDoor
+    100018: PivotDoor
+    100020: placeholder_basherBullet
+    100022: placeholder_basherMissile001
+    100024: placeholder_basherMissile002
+    100026: placeholder_basherMissile003
+    100028: placeholder_basherMissile004
+    100030: plow
+    100032: plow_panel_damaged_01
+    100034: plow_panel_damaged_02
+    100036: plow_panel_damaged_03
+    100038: plow_panel_damaged_04
+    100040: plow_panel_damaged_05
+    100042: plow_panel_damaged_06
+    100044: plow_panel_normal_007
+    100046: plow_panel_normal_008
+    100048: plow_panel_normal_009
+    100050: plow_panel_normal_010
+    100052: plow_panel_normal_011
+    100054: plow_panel_normal_012
+    100056: SideDoorSpread
+    100058: wheel_front
+    100060: wheel_middle
+    100062: wheel_rear
+    100064: basher_blastForce
+    100066: basher_subParent
+    100068: launchMissileSideDoorL
+    100070: PivotDoorL
+    100072: placeholder_basherMissile005
+    100074: placeholder_basherMissile006
+    100076: placeholder_basherMissile007
+    100078: placeholder_basherMissile008
+    100080: SideDoorSpreadL
+    100082: basher_body001
+    100084: rear_hatch
+    100086: rear_hatch_pulser
+    100088: SideDoorSpread_launcher
+    100090: SideDoorSpread_launcherL
+    100092: SideDoorSpread_pullBack
+    100094: SideDoorSpread_pullBackL
+    100096: PivotDoorArm
+    100098: PivotDoorArmL
+    400000: basher_body
+    400002: basher_core
+    400004: basher_coreTrim
+    400006: basher_frontWheelRotate
+    400008: basher_windshield
+    400010: //RootNode
+    400012: hatch
+    400014: hatchCannon
+    400016: launchMissileSideDoor
+    400018: PivotDoor
+    400020: placeholder_basherBullet
+    400022: placeholder_basherMissile001
+    400024: placeholder_basherMissile002
+    400026: placeholder_basherMissile003
+    400028: placeholder_basherMissile004
+    400030: plow
+    400032: plow_panel_damaged_01
+    400034: plow_panel_damaged_02
+    400036: plow_panel_damaged_03
+    400038: plow_panel_damaged_04
+    400040: plow_panel_damaged_05
+    400042: plow_panel_damaged_06
+    400044: plow_panel_normal_007
+    400046: plow_panel_normal_008
+    400048: plow_panel_normal_009
+    400050: plow_panel_normal_010
+    400052: plow_panel_normal_011
+    400054: plow_panel_normal_012
+    400056: SideDoorSpread
+    400058: wheel_front
+    400060: wheel_middle
+    400062: wheel_rear
+    400064: basher_blastForce
+    400066: basher_subParent
+    400068: launchMissileSideDoorL
+    400070: PivotDoorL
+    400072: placeholder_basherMissile005
+    400074: placeholder_basherMissile006
+    400076: placeholder_basherMissile007
+    400078: placeholder_basherMissile008
+    400080: SideDoorSpreadL
+    400082: basher_body001
+    400084: rear_hatch
+    400086: rear_hatch_pulser
+    400088: SideDoorSpread_launcher
+    400090: SideDoorSpread_launcherL
+    400092: SideDoorSpread_pullBack
+    400094: SideDoorSpread_pullBackL
+    400096: PivotDoorArm
+    400098: PivotDoorArmL
+    2100000: basherBoss
+    2300000: basher_body
+    2300002: basher_core
+    2300004: basher_coreTrim
+    2300006: basher_windshield
+    2300008: hatch
+    2300010: hatchCannon
+    2300012: launchMissileSideDoor
+    2300014: PivotDoor
+    2300016: plow
+    2300018: plow_panel_damaged_01
+    2300020: plow_panel_damaged_02
+    2300022: plow_panel_damaged_03
+    2300024: plow_panel_damaged_04
+    2300026: plow_panel_damaged_05
+    2300028: plow_panel_damaged_06
+    2300030: plow_panel_normal_007
+    2300032: plow_panel_normal_008
+    2300034: plow_panel_normal_009
+    2300036: plow_panel_normal_010
+    2300038: plow_panel_normal_011
+    2300040: plow_panel_normal_012
+    2300042: SideDoorSpread
+    2300044: wheel_front
+    2300046: wheel_middle
+    2300048: wheel_rear
+    2300050: basher_blastForce
+    2300052: launchMissileSideDoorL
+    2300054: PivotDoorL
+    2300056: SideDoorSpreadL
+    2300058: basher_body001
+    2300060: rear_hatch
+    2300062: rear_hatch_pulser
+    2300064: SideDoorSpread_launcher
+    2300066: SideDoorSpread_launcherL
+    2300068: SideDoorSpread_pullBack
+    2300070: SideDoorSpread_pullBackL
+    2300072: PivotDoorArm
+    2300074: PivotDoorArmL
+    3300000: basher_body
+    3300002: basher_core
+    3300004: basher_coreTrim
+    3300006: basher_windshield
+    3300008: hatch
+    3300010: hatchCannon
+    3300012: launchMissileSideDoor
+    3300014: PivotDoor
+    3300016: plow
+    3300018: plow_panel_damaged_01
+    3300020: plow_panel_damaged_02
+    3300022: plow_panel_damaged_03
+    3300024: plow_panel_damaged_04
+    3300026: plow_panel_damaged_05
+    3300028: plow_panel_damaged_06
+    3300030: plow_panel_normal_007
+    3300032: plow_panel_normal_008
+    3300034: plow_panel_normal_009
+    3300036: plow_panel_normal_010
+    3300038: plow_panel_normal_011
+    3300040: plow_panel_normal_012
+    3300042: SideDoorSpread
+    3300044: wheel_front
+    3300046: wheel_middle
+    3300048: wheel_rear
+    3300050: basher_blastForce
+    3300052: launchMissileSideDoorL
+    3300054: PivotDoorL
+    3300056: SideDoorSpreadL
+    3300058: basher_body001
+    3300060: rear_hatch
+    3300062: rear_hatch_pulser
+    3300064: SideDoorSpread_launcher
+    3300066: SideDoorSpread_launcherL
+    3300068: SideDoorSpread_pullBack
+    3300070: SideDoorSpread_pullBackL
+    3300072: PivotDoorArm
+    3300074: PivotDoorArmL
+    4300000: plow
+    4300002: plow_panel_normal_007
+    4300004: plow_panel_normal_008
+    4300006: plow_panel_normal_009
+    4300008: plow_panel_normal_010
+    4300010: plow_panel_normal_011
+    4300012: plow_panel_normal_012
+    4300014: plow_panel_damaged_06
+    4300016: plow_panel_damaged_02
+    4300018: plow_panel_damaged_04
+    4300020: plow_panel_damaged_01
+    4300022: plow_panel_damaged_05
+    4300024: plow_panel_damaged_03
+    4300026: basher_body
+    4300028: basher_core
+    4300030: basher_coreTrim
+    4300032: basher_windshield
+    4300034: launchMissileSideDoor
+    4300036: SideDoorSpread
+    4300038: PivotDoor
+    4300040: wheel_middle
+    4300042: wheel_rear
+    4300044: hatch
+    4300046: hatchCannon
+    4300048: wheel_front
+    4300050: basher_blastForce
+    4300052: launchMissileSideDoorL
+    4300054: SideDoorSpreadL
+    4300056: PivotDoorL
+    4300058: basher_body001
+    4300060: rear_hatch
+    4300062: rear_hatch_pulser
+    4300064: SideDoorSpread_pullBack
+    4300066: SideDoorSpread_launcher
+    4300068: SideDoorSpread_pullBackL
+    4300070: SideDoorSpread_launcherL
+    4300072: PivotDoorArm
+    4300074: PivotDoorArmL
+    7400000: plowThrust
+    7400002: raiseHatch
+    7400004: missileSideDoorR_open
+    7400006: spreadSideDoorR_open
+    7400008: frontDoorPivotR_open
+    7400010: plow_standby
+    7400012: hatch_standby
+    7400014: missileSideDoorR_standby
+    7400016: spreadSideDoorR_standby
+    7400018: frontDoorPivotL_standby
+    7400020: frontDoorPivotR_standby
+    7400022: pulseHatch_open
+    7400024: missileSideDoorL_open
+    7400026: spreadSideDoorL_open
+    7400028: frontDoorPivotL_open
+    7400030: missileSideDoorL_standby
+    7400032: spreadSideDoorL_standby
+    7400034: pulseHatch_standby
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: plowThrust
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 1
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 1
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: raiseHatch
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 1
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 1
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: missileSideDoorR_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 1
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 1
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spreadSideDoorR_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 1
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: frontDoorPivotR_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 1
+      - path: basher_subParent/PivotDoorArm
+        weight: 1
+      - path: basher_subParent/PivotDoorArmL
+        weight: 1
+      - path: basher_subParent/PivotDoorL
+        weight: 1
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: plow_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 1
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 1
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 1
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hatch_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 1
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 1
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: missileSideDoorR_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spreadSideDoorR_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 1
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: frontDoorPivotR_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 1
+      - path: basher_subParent/PivotDoorArm
+        weight: 1
+      - path: basher_subParent/PivotDoorArmL
+        weight: 1
+      - path: basher_subParent/PivotDoorL
+        weight: 1
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: missileSideDoorL_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 1
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spreadSideDoorL_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 1
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: frontDoorPivotL_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 1
+      - path: basher_subParent/PivotDoorArm
+        weight: 1
+      - path: basher_subParent/PivotDoorArmL
+        weight: 1
+      - path: basher_subParent/PivotDoorL
+        weight: 1
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: missileSideDoorL_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 1
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 1
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spreadSideDoorL_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 1
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: frontDoorPivotL_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 1
+      - path: basher_subParent/PivotDoorArm
+        weight: 1
+      - path: basher_subParent/PivotDoorArmL
+        weight: 1
+      - path: basher_subParent/PivotDoorL
+        weight: 1
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 0
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 0
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: pulseHatch_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 1
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 1
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: pulseHatch_standby
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basher_subParent
+        weight: 0
+      - path: basher_subParent/basher_body
+        weight: 0
+      - path: basher_subParent/basher_body/basher_core
+        weight: 0
+      - path: basher_subParent/basher_body/basher_coreTrim
+        weight: 0
+      - path: basher_subParent/basher_body/basher_windshield
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate
+        weight: 0
+      - path: basher_subParent/basher_frontWheelRotate/wheel_front
+        weight: 0
+      - path: basher_subParent/hatch
+        weight: 0
+      - path: basher_subParent/hatch/hatchCannon
+        weight: 0
+      - path: basher_subParent/hatch/placeholder_basherBullet
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile001
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile002
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile003
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoor/placeholder_basherMissile004
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile005
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile006
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile007
+        weight: 0
+      - path: basher_subParent/launchMissileSideDoorL/placeholder_basherMissile008
+        weight: 0
+      - path: basher_subParent/PivotDoor
+        weight: 0
+      - path: basher_subParent/PivotDoorArm
+        weight: 0
+      - path: basher_subParent/PivotDoorArmL
+        weight: 0
+      - path: basher_subParent/PivotDoorL
+        weight: 0
+      - path: basher_subParent/plow
+        weight: 0
+      - path: basher_subParent/plow/basher_blastForce
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_01
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_02
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_03
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_04
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_05
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_damaged_06
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_007
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_008
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_009
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_010
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_011
+        weight: 0
+      - path: basher_subParent/plow/plow_panel_normal_012
+        weight: 0
+      - path: basher_subParent/rear_hatch
+        weight: 1
+      - path: basher_subParent/rear_hatch/rear_hatch_pulser
+        weight: 1
+      - path: basher_subParent/SideDoorSpread
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack
+        weight: 0
+      - path: basher_subParent/SideDoorSpread/SideDoorSpread_pullBack/SideDoorSpread_launcher
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL
+        weight: 0
+      - path: basher_subParent/SideDoorSpreadL/SideDoorSpread_pullBackL/SideDoorSpread_launcherL
+        weight: 0
+      - path: basher_subParent/wheel_middle
+        weight: 0
+      - path: basher_subParent/wheel_rear
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0002
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

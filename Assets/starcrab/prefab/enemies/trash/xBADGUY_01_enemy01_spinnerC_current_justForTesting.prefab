@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1882985622044050}
+  m_IsPrefabAsset: 1
+--- !u!1 &1882985622044050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4869835980471284}
+  - component: {fileID: 114538643694136458}
+  m_Layer: 0
+  m_Name: xBADGUY_01_enemy01_spinnerC_current_justForTesting
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1929485279825098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4053206618884002}
+  - component: {fileID: 33733695059677926}
+  - component: {fileID: 23352737118159450}
+  - component: {fileID: 95777675892436012}
+  - component: {fileID: 114538722854468520}
+  - component: {fileID: 114310957542427754}
+  - component: {fileID: 54943019497526204}
+  - component: {fileID: 65683588520785866}
+  m_Layer: 0
+  m_Name: enemy01_spinner
+  m_TagString: enemyBullet
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4053206618884002
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  m_LocalRotation: {x: 0.7071068, y: 0.70710677, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4869835980471284}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 90.00001}
+--- !u!4 &4869835980471284
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1882985622044050}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4053206618884002}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: -90, z: 90}
+--- !u!23 &23352737118159450
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: 841ac9356e2a5eb489b88e0a346fdb9b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33733695059677926
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  m_Mesh: {fileID: 4300000, guid: 2d3da613d0c829e4581ca806a4331577, type: 3}
+--- !u!54 &54943019497526204
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
+--- !u!65 &65683588520785866
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.05255873, y: 0.052549556, z: 0.089217335}
+  m_Center: {x: -0.00062898634, y: -0.0006228649, z: -0.003532895}
+--- !u!95 &95777675892436012
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 213db3363035aaa4f9a9fa30c9488391, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114310957542427754
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8b4d2bbdadc0d34a8ad2a51902b5279, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 0}
+  mainObject: {fileID: 0}
+  vulnerableToTag:
+  - heroBullet
+  beginHealth: 30
+  health: 0
+  cantDie: 0
+  cantTakeDamage: 0
+  CollideParentToMessage: {fileID: 0}
+  doOnCollide: {fileID: 0}
+  UseAutoDamageFlash: 0
+  collideEffect: 1
+  collideEventOn: 0
+  CollideEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 95777675892436012}
+        m_MethodName: SetTrigger
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: damageFlash
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  DeathEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  InstanceList: []
+--- !u!114 &114538643694136458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1882985622044050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac96f3b3514c9014ead0b69d65a70a8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  usingList: 3
+  listActivity: 3
+  ItemLimit: 6
+  disableChildren: []
+  unparentChildren: []
+  PooledParent: {fileID: 0}
+--- !u!114 &114538722854468520
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929485279825098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a3be12f3361dab488a733e8959033fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShadowBaseSize: 0.2
+  MinShadowSize: 0.01
+  Extra: 
+  description: xBADGUY_01_enemy01_spinnerC
+  parent: {fileID: 1882985622044050}
+  AlertControllerOnDisable: {fileID: 0}
+  projectile: {fileID: 1292615145981422, guid: 1dc6b5e88a45e1b439728eaa28a3234a, type: 2}
+  projectileSpawnPoint:
+  - {fileID: 0}
+  currentProjectileSpawnPointCounter: 0
+  ProjectileFiringEnabled: 0
+  ShotDirection: 1
+  ProjectileEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  animPattern: 
+  animator: {fileID: 95777675892436012}
+  pointValue: 10
+  projectileStrength: 100
+  fireRate: 2
+  leader: 0
+  onlyLeaderShoots: 1
+  followers: 0
+  followersList: []
+  followerDistanceX: 0
+  followerDistanceY: 0
+  followerDistanceZ: 0
+  delayFollowersSpawn: 1
+  leaderObject: {fileID: 0}
+  deathPrefab: {fileID: 1968541646397322, guid: 05fb3aa4d94eef9479bc3860f90918d8,
+    type: 2}
+  DeathPrefabSpawnpoint: {fileID: 0}
+  canDieOnContact: 1
+  DropOnDeath: {fileID: 0}
+  DropScale: 0.025
+  powerupType: 0
+  IsObstacle: 0
+  CurrentDistVector: 0
+  TerminatorDistance: 0.52
+  checkTerminator: 1
+  NotifyOnly: 0
+  grandParent: {fileID: 0}
+  MoveSpeed: 1
+  homing: 0
+  IgnoreColliderTag: []
+  ResetKineTag: 
+  BoundaryTag: 
+  UpArrow: {fileID: 0}
+  DownArrow: {fileID: 0}
+  LeftArrow: {fileID: 0}
+  RightArrow: {fileID: 0}
+  ProjectileAudio: {fileID: 0}
+  AudioOnStart: {fileID: 0}
+  isBeingDrawn: 0
+  hasActivatedRenderers: 0
+  IgnoreRenderList: 0
+  meshRenderers: []
+  toVel: 2.5
+  maxVel: 15
+  maxForce: 40
+  gain: 5
+  homingTargetOffsetX: 0
+  homingTargetOffsetY: 0
+  homingTargetOffsetZ: 0
+  OffsetIncrements: 0
+  collidingWGeo: 0
+  aboveBlocked: 0
+  straightBlocked: 0
+  belowBlocked: 0
+  leftBlocked: 0
+  rightBlocked: 0
+  FlipBlockedSides: 0
+  workingToVel: 0
+  workingMaxVel: 0
+  StraightSensor: {fileID: 0}
+  AboveSensor: {fileID: 0}
+  BelowSensor: {fileID: 0}
+  LeftSensor: {fileID: 0}
+  RightSensor: {fileID: 0}
+  CheckTag: []
+  RaycastDistanceH: 0
+  RaycastDistanceV: 0
+  RaycastDistanceS: 0
+  ContinuousRaycast: 0
+  PowerUp: 0
+  PowerUpFx:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  LifeUp: 0
+  LifeUpFx:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  outOfRange: 0

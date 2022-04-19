@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8ed34fa5bb093408c9b5a15e90988d, type: 3}
+  m_Name: NewTileObject09
+  m_EditorClassIdentifier: 
+  note: 
+  ParentTile: {fileID: 1214354311521868, guid: d78d4fc6aac07774c88f799f7b73c029, type: 2}
+  ChildTile: {fileID: 1105500623799092, guid: 1b818f167e7d64a4d82693e53f95a8a8, type: 2}
+  ParentTileRotOffset: {x: -90, y: 0, z: 0}
+  ChildTileRotOffset: {x: -90, y: 0, z: 0}
+  featureList:
+  - FeatureObject: {fileID: 1471718944117246, guid: a7133328ce1026c4cbb9cc620824955d,
+      type: 2}
+    FeaturePosOffset: {x: 0, y: 0, z: 0}
+    FeatureRotOffset: {x: -90, y: 0, z: 0}
+  - FeatureObject: {fileID: 1187572690191704, guid: 114cd6848df09e348b92635bfab138cb,
+      type: 2}
+    FeaturePosOffset: {x: 0.35941, y: 1, z: -0.00000017881}
+    FeatureRotOffset: {x: -90, y: 0, z: 180}
+  - FeatureObject: {fileID: 1325094482647448, guid: 80b4a46beb331314689da39ce8120020,
+      type: 2}
+    FeaturePosOffset: {x: 0, y: 1, z: 0}
+    FeatureRotOffset: {x: -90, y: 0, z: 0}

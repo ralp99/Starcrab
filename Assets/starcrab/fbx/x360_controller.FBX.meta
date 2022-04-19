@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: bae4b4e3dcff2544b83bb14516c9672f
+timeCreated: 1471424214
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bumpers
+    100002: button_a_green
+    100004: button_b_red
+    100006: button_system
+    100008: button_x_blue
+    100010: button_y_yellow
+    100012: buttons_under
+    100014: dpad
+    100016: letters
+    100018: rear
+    100020: shell
+    100022: thumbstick_L
+    100024: thumbstick_R
+    100026: trigger_L
+    100028: trigger_R
+    100030: //RootNode
+    100032: bumper_L
+    100034: bumper_R
+    400000: bumpers
+    400002: button_a_green
+    400004: button_b_red
+    400006: button_system
+    400008: button_x_blue
+    400010: button_y_yellow
+    400012: buttons_under
+    400014: dpad
+    400016: letters
+    400018: rear
+    400020: shell
+    400022: thumbstick_L
+    400024: thumbstick_R
+    400026: trigger_L
+    400028: trigger_R
+    400030: //RootNode
+    400032: bumper_L
+    400034: bumper_R
+    2300000: bumpers
+    2300002: button_a_green
+    2300004: button_b_red
+    2300006: button_system
+    2300008: button_x_blue
+    2300010: button_y_yellow
+    2300012: buttons_under
+    2300014: dpad
+    2300016: letters
+    2300018: rear
+    2300020: shell
+    2300022: thumbstick_L
+    2300024: thumbstick_R
+    2300026: trigger_L
+    2300028: trigger_R
+    2300030: bumper_L
+    2300032: bumper_R
+    3300000: bumpers
+    3300002: button_a_green
+    3300004: button_b_red
+    3300006: button_system
+    3300008: button_x_blue
+    3300010: button_y_yellow
+    3300012: buttons_under
+    3300014: dpad
+    3300016: letters
+    3300018: rear
+    3300020: shell
+    3300022: thumbstick_L
+    3300024: thumbstick_R
+    3300026: trigger_L
+    3300028: trigger_R
+    3300030: bumper_L
+    3300032: bumper_R
+    4300000: button_y_yellow
+    4300002: buttons_under
+    4300004: button_x_blue
+    4300006: trigger_L
+    4300008: button_b_red
+    4300010: trigger_R
+    4300012: letters
+    4300014: rear
+    4300016: dpad
+    4300018: thumbstick_R
+    4300020: button_a_green
+    4300022: button_system
+    4300024: shell
+    4300026: bumpers
+    4300028: thumbstick_L
+    4300030: bumper_L
+    4300032: bumper_R
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

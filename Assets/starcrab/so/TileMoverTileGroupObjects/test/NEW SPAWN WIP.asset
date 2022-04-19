@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d80647526638d44eb13d27f4883fbda, type: 3}
+  m_Name: NEW SPAWN WIP
+  m_EditorClassIdentifier: 
+  note: 
+  groupId: 0
+  tileList:
+  - note: 0 - wait
+    TileSo: {fileID: 11400000, guid: 5db04a341fdcc5e469677aa89216d815, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: 01 - enemy purple
+    TileSo: {fileID: 11400000, guid: 5db04a341fdcc5e469677aa89216d815, type: 2}
+    specialAction: 0
+    InstanceSpawnList:
+    - note: posA
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 1
+      PresetHoriz: 1
+      PresetVert: 1
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: posB
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 2
+      PresetHoriz: 1
+      PresetVert: 1
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: posC
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 3
+      PresetHoriz: 1
+      PresetVert: 1
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: posD
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 4
+      PresetHoriz: 1
+      PresetVert: 1
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+    - note: posE
+      spawnItems: 6
+      ShotDirection: 0
+      PresetDepth: 5
+      PresetHoriz: 1
+      PresetVert: 1
+      SpawnItemCoords: {x: 0, y: 0, z: 0}
+  - note: wait
+    TileSo: {fileID: 11400000, guid: 5db04a341fdcc5e469677aa89216d815, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: wait
+    TileSo: {fileID: 11400000, guid: 5db04a341fdcc5e469677aa89216d815, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: wait
+    TileSo: {fileID: 11400000, guid: 5db04a341fdcc5e469677aa89216d815, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: wait
+    TileSo: {fileID: 11400000, guid: 5db04a341fdcc5e469677aa89216d815, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  - note: wait
+    TileSo: {fileID: 11400000, guid: a240170a999c05243b6b392b73c12ea7, type: 2}
+    specialAction: 0
+    InstanceSpawnList: []
+  culledToBeginingElementAlready: 0
+  BeginningElement: 0
+  randomize: 0
+  tileListIterations: 0
+  currentIteration: 0
+  dynamicTileListMembers: []
+  currentListPosition: 0
+  didRandomRoll: 0

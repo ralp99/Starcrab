@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bfa289968ca12324ea9969fd5c99bf80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Front: {instanceID: 0}
+  - FrontGlow: {instanceID: 0}
+  - Side: {instanceID: 0}
+  - SideGlow: {instanceID: 0}
+  - Top: {instanceID: 0}
+  - TopGlow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

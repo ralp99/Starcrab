@@ -1,0 +1,1516 @@
+fileFormatVersion: 2
+guid: b2f845e0d5258b44a8759c1c78fb22e7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boss01_body_mesh
+    100004: boss01_cannon_barrel
+    100006: boss01_cannon_rotate
+    100008: boss01_collision002_openBottom
+    100010: boss01_collision005_openBottom
+    100012: boss01_collision008_openBottom
+    100014: boss01_collision009
+    100016: boss01_collision010_openTop
+    100018: boss01_collision013
+    100020: boss01_collision014_closeBottom
+    100022: boss01_collision015_closedTop
+    100024: boss01_collision_innerPanel
+    100026: boss01_collision_innerPanel_box_002
+    100028: boss01_collision_innerPanel_box_003
+    100030: boss01_collision_innerPanel_box_004
+    100032: boss01_collision_innerPanel_box_01
+    100034: boss01_collision_mainDoors_closed
+    100036: boss01_L_lowerDoorA
+    100038: boss01_L_lowerDoorB
+    100040: boss01_L_mainLowerDoor
+    100042: boss01_L_mainUpperDoor
+    100044: boss01_L_midDoorA
+    100046: boss01_L_midDoorB
+    100048: boss01_L_upperDoorA
+    100050: boss01_L_upperDoorB
+    100052: boss01_main
+    100054: boss01_R_lowerDoorA
+    100056: boss01_R_lowerDoorB
+    100058: boss01_R_mainLowerDoor
+    100060: boss01_R_mainUpperDoor
+    100062: boss01_R_midDoorA
+    100064: boss01_R_midDoorB
+    100066: boss01_R_upperDoorA
+    100068: boss01_R_upperDoorB
+    100070: INVIS_bossNode_hitspot_L_01
+    100072: INVIS_bossNode_hitspot_R_01
+    100074: INVIS_bossNode_minicannon_L_01
+    100076: INVIS_bossNode_minicannon_L_02
+    100078: INVIS_bossNode_minicannon_R_01
+    100080: INVIS_bossNode_minicannon_R_02
+    100082: boss01_collision_set
+    100084: boss01_pipes
+    100086: goodUV
+    100088: boss01_pipes_02
+    100090: boss01_pipes_03
+    100092: boss01_pipes_04
+    100094: boss01_pipes_05
+    100096: boss01_pipes_06
+    100098: boss01_pipes_07
+    100100: boss01_pipes_08
+    100102: boss01_pipes_09
+    100104: boss01_pipes_10
+    100106: boss01_pipes_11
+    400000: //RootNode
+    400002: boss01_body_mesh
+    400004: boss01_cannon_barrel
+    400006: boss01_cannon_rotate
+    400008: boss01_collision002_openBottom
+    400010: boss01_collision005_openBottom
+    400012: boss01_collision008_openBottom
+    400014: boss01_collision009
+    400016: boss01_collision010_openTop
+    400018: boss01_collision013
+    400020: boss01_collision014_closeBottom
+    400022: boss01_collision015_closedTop
+    400024: boss01_collision_innerPanel
+    400026: boss01_collision_innerPanel_box_002
+    400028: boss01_collision_innerPanel_box_003
+    400030: boss01_collision_innerPanel_box_004
+    400032: boss01_collision_innerPanel_box_01
+    400034: boss01_collision_mainDoors_closed
+    400036: boss01_L_lowerDoorA
+    400038: boss01_L_lowerDoorB
+    400040: boss01_L_mainLowerDoor
+    400042: boss01_L_mainUpperDoor
+    400044: boss01_L_midDoorA
+    400046: boss01_L_midDoorB
+    400048: boss01_L_upperDoorA
+    400050: boss01_L_upperDoorB
+    400052: boss01_main
+    400054: boss01_R_lowerDoorA
+    400056: boss01_R_lowerDoorB
+    400058: boss01_R_mainLowerDoor
+    400060: boss01_R_mainUpperDoor
+    400062: boss01_R_midDoorA
+    400064: boss01_R_midDoorB
+    400066: boss01_R_upperDoorA
+    400068: boss01_R_upperDoorB
+    400070: INVIS_bossNode_hitspot_L_01
+    400072: INVIS_bossNode_hitspot_R_01
+    400074: INVIS_bossNode_minicannon_L_01
+    400076: INVIS_bossNode_minicannon_L_02
+    400078: INVIS_bossNode_minicannon_R_01
+    400080: INVIS_bossNode_minicannon_R_02
+    400082: boss01_collision_set
+    400084: boss01_pipes
+    400086: goodUV
+    400088: boss01_pipes_02
+    400090: boss01_pipes_03
+    400092: boss01_pipes_04
+    400094: boss01_pipes_05
+    400096: boss01_pipes_06
+    400098: boss01_pipes_07
+    400100: boss01_pipes_08
+    400102: boss01_pipes_09
+    400104: boss01_pipes_10
+    400106: boss01_pipes_11
+    2100000: 'Material #713'
+    2100002: No Name
+    2300000: boss01_body_mesh
+    2300002: boss01_cannon_barrel
+    2300004: boss01_cannon_rotate
+    2300006: boss01_collision002_openBottom
+    2300008: boss01_collision005_openBottom
+    2300010: boss01_collision008_openBottom
+    2300012: boss01_collision009
+    2300014: boss01_collision010_openTop
+    2300016: boss01_collision013
+    2300018: boss01_collision014_closeBottom
+    2300020: boss01_collision015_closedTop
+    2300022: boss01_collision_innerPanel
+    2300024: boss01_collision_innerPanel_box_002
+    2300026: boss01_collision_innerPanel_box_003
+    2300028: boss01_collision_innerPanel_box_004
+    2300030: boss01_collision_innerPanel_box_01
+    2300032: boss01_collision_mainDoors_closed
+    2300034: boss01_L_lowerDoorA
+    2300036: boss01_L_lowerDoorB
+    2300038: boss01_L_mainLowerDoor
+    2300040: boss01_L_mainUpperDoor
+    2300042: boss01_L_midDoorA
+    2300044: boss01_L_midDoorB
+    2300046: boss01_L_upperDoorA
+    2300048: boss01_L_upperDoorB
+    2300050: boss01_R_lowerDoorA
+    2300052: boss01_R_lowerDoorB
+    2300054: boss01_R_mainLowerDoor
+    2300056: boss01_R_mainUpperDoor
+    2300058: boss01_R_midDoorA
+    2300060: boss01_R_midDoorB
+    2300062: boss01_R_upperDoorA
+    2300064: boss01_R_upperDoorB
+    2300066: boss01_collision_set
+    2300068: boss01_pipes
+    2300070: goodUV
+    2300072: boss01_pipes_02
+    2300074: boss01_pipes_03
+    2300076: boss01_pipes_04
+    2300078: boss01_pipes_05
+    2300080: boss01_pipes_06
+    2300082: boss01_pipes_07
+    2300084: boss01_pipes_08
+    2300086: boss01_pipes_09
+    2300088: boss01_pipes_10
+    2300090: boss01_pipes_11
+    3300000: boss01_body_mesh
+    3300002: boss01_cannon_barrel
+    3300004: boss01_cannon_rotate
+    3300006: boss01_collision002_openBottom
+    3300008: boss01_collision005_openBottom
+    3300010: boss01_collision008_openBottom
+    3300012: boss01_collision009
+    3300014: boss01_collision010_openTop
+    3300016: boss01_collision013
+    3300018: boss01_collision014_closeBottom
+    3300020: boss01_collision015_closedTop
+    3300022: boss01_collision_innerPanel
+    3300024: boss01_collision_innerPanel_box_002
+    3300026: boss01_collision_innerPanel_box_003
+    3300028: boss01_collision_innerPanel_box_004
+    3300030: boss01_collision_innerPanel_box_01
+    3300032: boss01_collision_mainDoors_closed
+    3300034: boss01_L_lowerDoorA
+    3300036: boss01_L_lowerDoorB
+    3300038: boss01_L_mainLowerDoor
+    3300040: boss01_L_mainUpperDoor
+    3300042: boss01_L_midDoorA
+    3300044: boss01_L_midDoorB
+    3300046: boss01_L_upperDoorA
+    3300048: boss01_L_upperDoorB
+    3300050: boss01_R_lowerDoorA
+    3300052: boss01_R_lowerDoorB
+    3300054: boss01_R_mainLowerDoor
+    3300056: boss01_R_mainUpperDoor
+    3300058: boss01_R_midDoorA
+    3300060: boss01_R_midDoorB
+    3300062: boss01_R_upperDoorA
+    3300064: boss01_R_upperDoorB
+    3300066: boss01_collision_set
+    3300068: boss01_pipes
+    3300070: goodUV
+    3300072: boss01_pipes_02
+    3300074: boss01_pipes_03
+    3300076: boss01_pipes_04
+    3300078: boss01_pipes_05
+    3300080: boss01_pipes_06
+    3300082: boss01_pipes_07
+    3300084: boss01_pipes_08
+    3300086: boss01_pipes_09
+    3300088: boss01_pipes_10
+    3300090: boss01_pipes_11
+    4300000: boss01_body_mesh
+    4300002: boss01_cannon_rotate
+    4300004: boss01_cannon_barrel
+    4300006: boss01_L_mainLowerDoor
+    4300008: boss01_R_mainLowerDoor
+    4300010: boss01_L_mainUpperDoor
+    4300012: boss01_R_mainUpperDoor
+    4300014: boss01_R_lowerDoorB
+    4300016: boss01_R_lowerDoorA
+    4300018: boss01_R_midDoorB
+    4300020: boss01_R_midDoorA
+    4300022: boss01_R_upperDoorB
+    4300024: boss01_R_upperDoorA
+    4300026: boss01_L_upperDoorB
+    4300028: boss01_L_upperDoorA
+    4300030: boss01_L_midDoorA
+    4300032: boss01_L_midDoorB
+    4300034: boss01_L_lowerDoorA
+    4300036: boss01_L_lowerDoorB
+    4300038: boss01_collision009
+    4300040: boss01_collision010_openTop
+    4300042: boss01_collision013
+    4300044: boss01_collision002_openBottom
+    4300046: boss01_collision005_openBottom
+    4300048: boss01_collision008_openBottom
+    4300050: boss01_collision_mainDoors_closed
+    4300052: boss01_collision_innerPanel_box_002
+    4300054: boss01_collision_innerPanel_box_003
+    4300056: boss01_collision_innerPanel_box_01
+    4300058: boss01_collision_innerPanel_box_004
+    4300060: boss01_collision_innerPanel
+    4300062: boss01_collision015_closedTop
+    4300064: boss01_collision014_closeBottom
+    4300066: boss01_collision_set
+    4300068: boss01_pipes
+    4300070: goodUV
+    4300072: boss01_pipes_06
+    4300074: boss01_pipes_05
+    4300076: boss01_pipes_04
+    4300078: boss01_pipes_03
+    4300080: boss01_pipes_08
+    4300082: boss01_pipes_10
+    4300084: boss01_pipes_09
+    4300086: boss01_pipes_02
+    4300088: boss01_pipes_11
+    4300090: boss01_pipes_07
+    7400000: mainLowerDoors
+    7400002: mainUpperDoors
+    7400004: L_midDoor
+    7400006: L_upperDoor
+    7400008: L_lowerDoor
+    7400010: R_midDoor
+    7400012: R_upperDoor
+    7400014: R_lowerDoor
+    7400016: cannonExtend
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mainLowerDoors
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 1
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 1
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: mainUpperDoors
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 1
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 1
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L_midDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 1
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 1
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L_upperDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 1
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 1
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L_lowerDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 1
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 1
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: R_midDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 1
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 1
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: R_upperDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 1
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 1
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: R_lowerDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 1
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 1
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cannonExtend
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss01_body_mesh
+        weight: 0
+      - path: boss01_body_mesh/boss01_cannon_rotate
+        weight: 1
+      - path: boss01_body_mesh/boss01_cannon_rotate/boss01_cannon_barrel
+        weight: 1
+      - path: boss01_body_mesh/boss01_collision_innerPanel
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_01
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_002
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_003
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_innerPanel_box_004
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_mainDoors_closed
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision002_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision005_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision008_openBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision010_openTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision013
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision014_closeBottom
+        weight: 0
+      - path: boss01_body_mesh/boss01_collision_set/boss01_collision015_closedTop
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_L_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_main
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_02
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_03
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_04
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_05
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_06
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_07
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_08
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_09
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_10
+        weight: 0
+      - path: boss01_body_mesh/boss01_pipes_11
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_lowerDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainLowerDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_mainUpperDoor
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_midDoorB
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorA
+        weight: 0
+      - path: boss01_body_mesh/boss01_R_upperDoorB
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_hitspot_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_L_02
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_01
+        weight: 0
+      - path: boss01_body_mesh/INVIS_bossNode_minicannon_R_02
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

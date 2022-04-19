@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 947558ada56bfa04ebf5449b9cb10c9d
+timeCreated: 1527461057
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: popupGun_barrel_L_PC
+    100002: popupGun_barrel_R_PC
+    100004: popupGun_cannon_anim
+    100006: popupGun_cannon_L_PC
+    100008: popupGun_cannon_R_PC
+    100010: popupGun_extender
+    100012: popupGun_fallAwayDoor_L
+    100014: popupGun_fallAwayDoor_R
+    100016: popupGun_riser_clip
+    100018: popupGun_riser_PC_anim
+    100020: //RootNode
+    100022: INVIS_target
+    100024: popupGun_yawSpin_anim
+    100026: popupGun_projectileSpawnPoint
+    400000: popupGun_barrel_L_PC
+    400002: popupGun_barrel_R_PC
+    400004: popupGun_cannon_anim
+    400006: popupGun_cannon_L_PC
+    400008: popupGun_cannon_R_PC
+    400010: popupGun_extender
+    400012: popupGun_fallAwayDoor_L
+    400014: popupGun_fallAwayDoor_R
+    400016: popupGun_riser_clip
+    400018: popupGun_riser_PC_anim
+    400020: //RootNode
+    400022: INVIS_target
+    400024: popupGun_yawSpin_anim
+    400026: popupGun_projectileSpawnPoint
+    2100000: level1_popupGun_container
+    2100002: 'Material #349'
+    2100004: 'Material #354'
+    2100006: 'Material #351'
+    2100008: 'Material #352'
+    2100010: 'Material #350'
+    2100012: 'Material #353'
+    2100014: level1_popupGun_fallAwayDoor02
+    2100016: level1_popupGun_fallAwayDoor01.png
+    2100018: No Name
+    2300000: popupGun_barrel_L_PC
+    2300002: popupGun_barrel_R_PC
+    2300004: popupGun_cannon_L_PC
+    2300006: popupGun_cannon_R_PC
+    2300008: popupGun_extender
+    2300010: popupGun_fallAwayDoor_L
+    2300012: popupGun_fallAwayDoor_R
+    2300014: popupGun_riser_PC_anim
+    2300016: //RootNode
+    2300018: INVIS_target
+    3300000: popupGun_barrel_L_PC
+    3300002: popupGun_barrel_R_PC
+    3300004: popupGun_cannon_L_PC
+    3300006: popupGun_cannon_R_PC
+    3300008: popupGun_extender
+    3300010: popupGun_fallAwayDoor_L
+    3300012: popupGun_fallAwayDoor_R
+    3300014: popupGun_riser_PC_anim
+    3300016: //RootNode
+    3300018: INVIS_target
+    4300000: popupGun_container
+    4300002: popupGun_riser_PC_anim
+    4300004: popupGun_extender
+    4300006: popupGun_cannon_R_PC
+    4300008: popupGun_barrel_R_PC
+    4300010: popupGun_cannon_L_PC
+    4300012: popupGun_barrel_L_PC
+    4300014: popupGun_fallAwayDoor_L
+    4300016: popupGun_fallAwayDoor_R
+    4300018: INVIS_target
+    7400000: Take 001
+    7400002: wait
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: wait
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

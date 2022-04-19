@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 71350073683cce14abd4e9c1e8884877
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' extender_body_root'
+    100002: bone_child
+    100004: bone_detached
+    100006: extender_body_frontDoorA
+    100008: extender_body_frontDoorB
+    100010: extender_body_pullFwd
+    100012: extender_stretch
+    100014: finalBoss_corridorA
+    100016: finalBoss_slideDoorA_bottom
+    100018: finalBoss_slideDoorA_top
+    100020: refPoint_finalBoss_extenderCannon_spawnPoint_01
+    100022: refPoint_finalBoss_extenderCannon_spawnPoint_02
+    100024: refPoint_finalBoss_extenderCannon_spawnPoint_03
+    100026: refPoint_finalBoss_extenderCannon_spawnPoint_04
+    100028: //RootNode
+    400000: ' extender_body_root'
+    400002: bone_child
+    400004: bone_detached
+    400006: extender_body_frontDoorA
+    400008: extender_body_frontDoorB
+    400010: extender_body_pullFwd
+    400012: extender_stretch
+    400014: finalBoss_corridorA
+    400016: finalBoss_slideDoorA_bottom
+    400018: finalBoss_slideDoorA_top
+    400020: refPoint_finalBoss_extenderCannon_spawnPoint_01
+    400022: refPoint_finalBoss_extenderCannon_spawnPoint_02
+    400024: refPoint_finalBoss_extenderCannon_spawnPoint_03
+    400026: refPoint_finalBoss_extenderCannon_spawnPoint_04
+    400028: //RootNode
+    2100000: 'Material #721'
+    2300000: extender_body_frontDoorA
+    2300002: extender_body_frontDoorB
+    2300004: extender_body_pullFwd
+    2300006: finalBoss_corridorA
+    2300008: finalBoss_slideDoorA_bottom
+    2300010: finalBoss_slideDoorA_top
+    3300000: extender_body_frontDoorA
+    3300002: extender_body_frontDoorB
+    3300004: extender_body_pullFwd
+    3300006: finalBoss_corridorA
+    3300008: finalBoss_slideDoorA_bottom
+    3300010: finalBoss_slideDoorA_top
+    4300000: finalBoss_slideDoorA_top
+    4300002: finalBoss_slideDoorA_bottom
+    4300004: finalBoss_corridorA
+    4300006: extender_body_pullFwd
+    4300008: extender_body_frontDoorB
+    4300010: extender_body_frontDoorA
+    4300012: extender_stretch
+    7400000: doorsOpen_A
+    7400002: armExtend
+    9500000: //RootNode
+    13700000: extender_stretch
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: doorsOpen_A
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' extender_body_root'
+        weight: 0
+      - path: ' extender_body_root/bone_detached'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd/bone_child'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd/extender_body_frontDoorA'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd/extender_body_frontDoorB'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_01'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_02'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_03'
+        weight: 0
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_04'
+        weight: 0
+      - path: ' extender_body_root/extender_stretch'
+        weight: 0
+      - path: finalBoss_corridorA
+        weight: 0
+      - path: finalBoss_slideDoorA_bottom
+        weight: 1
+      - path: finalBoss_slideDoorA_top
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: armExtend
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' extender_body_root'
+        weight: 1
+      - path: ' extender_body_root/bone_detached'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd/bone_child'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd/extender_body_frontDoorA'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd/extender_body_frontDoorB'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_01'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_02'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_03'
+        weight: 1
+      - path: ' extender_body_root/extender_body_pullFwd/refPoint_finalBoss_extenderCannon_spawnPoint_04'
+        weight: 1
+      - path: ' extender_body_root/extender_stretch'
+        weight: 1
+      - path: finalBoss_corridorA
+        weight: 0
+      - path: finalBoss_slideDoorA_bottom
+        weight: 0
+      - path: finalBoss_slideDoorA_top
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

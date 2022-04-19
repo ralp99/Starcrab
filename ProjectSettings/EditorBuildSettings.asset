@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/starcrab_MAIN_EXPORT.unity
+    guid: d362c8b31085004469a146d287b460ec
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/starcrab_Level_Traditional_EXPORT.unity
+    guid: e10b5bd27eab3e945ac34e16c4b2486f
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/starcrab_Level_Showcase_EXPORT.unity
+    guid: f66e4ff01fd27ac439211861e850a059
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/starcrab_finalBoss_EXPORT.unity
+    guid: 503a3199f8ca7384da34601a73c488f2
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/starcrab_TestLevel_EXPORT.unity
+    guid: 4759cad5c93999048ac1e856d02c4994
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/testLevels/starcrab_WallBossTestLevel_EXPORT.unity
+    guid: df207e495702e05419eb1bce5bf8687d
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/testLevels/starcrab_SurroundBossTestLevel_EXPORT.unity
+    guid: b70829e8d56286242baafa19f9e25f83
+  - enabled: 1
+    path: Assets/starcrab/scene/ExportScenes/testLevels/starcrab_BasherBossTestLevel_EXPORT.unity
+    guid: 5c84c34f6ad684d42883d0fc4a4dee31
+  m_configObjects: {}

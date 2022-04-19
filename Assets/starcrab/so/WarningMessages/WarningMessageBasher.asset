@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa289968ca12324ea9969fd5c99bf80, type: 3}
+  m_Name: WarningMessageBasher
+  m_EditorClassIdentifier: 
+  Front: {fileID: 21300000, guid: 3b30b386a2fd90744b63baf439b209b5, type: 3}
+  FrontGlow: {fileID: 21300000, guid: 8295ecf32fe2b914fa89c5f0de8742e7, type: 3}
+  Side: {fileID: 21300000, guid: 4910f2198facd884991c71a27552bcbf, type: 3}
+  SideGlow: {fileID: 21300000, guid: 82e91e4cfc367624a982f37ba129bf1a, type: 3}
+  Top: {fileID: 21300000, guid: f47b4592f79c431438f016a41eda4fa8, type: 3}
+  TopGlow: {fileID: 21300000, guid: f7cde37aff88b1a4381b77b57b90880c, type: 3}
+  Rotate:
+  - {fileID: 21300000, guid: b198e0430ca3e794abbb3b119458918e, type: 3}
+  - {fileID: 21300000, guid: f9c05f8ae26b95441b2d6f86f5cbfdcb, type: 3}
+  - {fileID: 21300000, guid: e60a597c8843dc741b5f6254a64e3e54, type: 3}
+  - {fileID: 21300000, guid: 9a83339b06310454583ecc14c76901a5, type: 3}
+  - {fileID: 21300000, guid: e82c829231bf09a4d9eb54be74514840, type: 3}
+  - {fileID: 21300000, guid: 58995748fe5f466428ce7a4659152942, type: 3}
+  - {fileID: 21300000, guid: 954602d458371c84fb105db3b640879c, type: 3}
+  - {fileID: 21300000, guid: 1674706619786a741bc5bf7f462cf2a1, type: 3}
+  - {fileID: 21300000, guid: b198e0430ca3e794abbb3b119458918e, type: 3}
